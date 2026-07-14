@@ -1,0 +1,51 @@
+{
+  "books": [
+    {
+      "id": "B1001",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "isbn": "9780262033848",
+      "quantity": 5,
+      "available": 4,
+      "issued_to": [
+        {
+          "student_id": "S1001",
+          "student_name": "Alice Smith",
+          "issue_date": "2026-07-08",
+          "due_date": "2026-07-22"
+        }
+      ]
+    },
+    {
+      "id": "B1002",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "isbn": "9780132350884",
+      "quantity": 3,
+      "available": 3,
+      "issued_to": []
+    },
+    {
+      "id": "B1003",
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "isbn": "9780201633610",
+      "quantity": 4,
+      "available": 2,
+      "issued_to": [
+        {
+          "student_id": "S1002",
+          "student_name": "Bob Jones",
+          "issue_date": "2026-07-05",
+          "due_date": "2026-07-19"
+        },
+        {
+          "student_id": "S1004",
+          "student_name": "Diana Prince",
+          "issue_date": "2026-07-12",
+          "due_date": "2026-07-26"
+        }
+      ]
+    }
+  ]
+}

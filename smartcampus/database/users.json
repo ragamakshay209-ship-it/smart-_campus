@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "System Administrator",
+      "email": "admin@campus.edu",
+      "password": "$2b$12$89Et.viMcsvkBYwmbBEh6OjrsFvb3feuj3djMtMe270CM4PuP.Th6",
+      "role": "Admin",
+      "profile_picture": null
+    },
+    {
+      "name": "Dr. Alan Turing",
+      "email": "turing@campus.edu",
+      "password": "$2b$12$Mh/1Vsc8k2pu83Uo6PXU1uNG62XS/MNRZeX5Vc7IqirWCrI/MAERO",
+      "role": "Faculty",
+      "profile_picture": null
+    },
+    {
+      "name": "Alice Smith",
+      "email": "alice@campus.edu",
+      "password": "$2b$12$XKrzEp85l/c9pI3VdVBEeOdkgzRlM.g.2Fd/OhaalRE7ZY7CsyUIy",
+      "role": "Student",
+      "profile_picture": null
+    },
+    {
+      "name": "ragam akshay",
+      "email": "ragamakshay209@gmail.com",
+      "password": "$2b$12$bCsaDXZ9yHn17KRUMNW7auJegzqEX6o8/APkoGm..j/parPs1vEdS",
+      "role": "Student",
+      "profile_picture": null
+    },
+    {
+      "name": "amar",
+      "email": "ragamakshay18@gmail.com",
+      "password": "$2b$12$XHOM9ElNa.dlVPrYjyNOiO2luBtpjUcoCPMN3OX6WwOI8SFlNu1Ta",
+      "role": "Admin",
+      "profile_picture": null
+    }
+  ]
+}

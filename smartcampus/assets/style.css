@@ -1,0 +1,99 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+
+/* Global Reset & Base Typography */
+html, body, [data-testid="stAppViewContainer"] {
+    font-family: 'Outfit', sans-serif !important;
+    background-color: #F8FAFC !important;
+}
+
+/* Sidebar Custom Styling */
+[data-testid="stSidebar"] {
+    background-color: #FFFFFF !important;
+    border-right: 1px solid #E2E8F0 !important;
+}
+
+/* Modern styling for sidebar navigation items */
+[data-testid="stSidebarNav"] {
+    background-image: none !important;
+}
+
+/* Centered content styling for login/register cards */
+.auth-container {
+    max-width: 480px;
+    margin: 80px auto;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #F1F5F9;
+}
+
+/* Title and typography styling */
+h1 {
+    font-family: 'Outfit', sans-serif !important;
+    font-weight: 700 !important;
+    color: #2563EB !important;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif !important;
+    font-weight: 600 !important;
+    color: #1E293B !important;
+}
+
+/* Custom interactive inputs styling */
+div[data-baseweb="input"] {
+    border-radius: 10px !important;
+    border-color: #E2E8F0 !important;
+}
+
+/* Metric Hover animation override */
+.metric-card {
+    cursor: pointer;
+}
+.metric-card:hover {
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.08), 0 4px 12px -2px rgba(0, 0, 0, 0.04) !important;
+}
+
+/* Premium Button Styling */
+div.stButton > button:first-child {
+    background-color: #2563EB !important;
+    color: #FFFFFF !important;
+    font-weight: 600 !important;
+    border-radius: 10px !important;
+    border: none !important;
+    padding: 12px 28px !important;
+    width: 100% !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2), 0 2px 4px -1px rgba(37, 99, 235, 0.1) !important;
+}
+
+div.stButton > button:first-child:hover {
+    background-color: #1D4ED8 !important;
+    box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3), 0 4px 6px -2px rgba(37, 99, 235, 0.2) !important;
+    transform: translateY(-1px) !important;
+}
+
+div.stButton > button:first-child:active {
+    transform: translateY(1px) !important;
+}
+
+/* Custom tabs menu formatting */
+button[data-baseweb="tab"] {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    color: #64748B !important;
+}
+
+button[aria-selected="true"] {
+    color: #2563EB !important;
+}
+
+/* Streamlit main padding adjustment */
+.block-container {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}

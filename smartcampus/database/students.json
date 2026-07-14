@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": "S1001",
+      "name": "Alice Smith",
+      "email": "alice@campus.edu",
+      "department": "Computer Science",
+      "year": "3rd Year",
+      "phone": "+1 555-0101",
+      "enrollment_date": "2024-09-01"
+    },
+    {
+      "id": "S1002",
+      "name": "Bob Jones",
+      "email": "bob@campus.edu",
+      "department": "Electrical Engineering",
+      "year": "2nd Year",
+      "phone": "+1 555-0102",
+      "enrollment_date": "2025-09-01"
+    },
+    {
+      "id": "S1003",
+      "name": "Charlie Brown",
+      "email": "charlie@campus.edu",
+      "department": "Mechanical Engineering",
+      "year": "1st Year",
+      "phone": "+1 555-0103",
+      "enrollment_date": "2026-01-15"
+    },
+    {
+      "id": "S1004",
+      "name": "Diana Prince",
+      "email": "diana@campus.edu",
+      "department": "Computer Science",
+      "year": "4th Year",
+      "phone": "+1 555-0104",
+      "enrollment_date": "2023-09-01"
+    },
+    {
+      "id": "S1005",
+      "name": "Evan Wright",
+      "email": "evan@campus.edu",
+      "department": "Business Administration",
+      "year": "3rd Year",
+      "phone": "+1 555-0105",
+      "enrollment_date": "2024-09-01"
+    }
+  ]
+}

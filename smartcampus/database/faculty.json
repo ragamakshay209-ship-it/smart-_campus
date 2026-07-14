@@ -1,0 +1,40 @@
+{
+  "faculty": [
+    {
+      "id": "F1001",
+      "name": "Dr. Alan Turing",
+      "email": "turing@campus.edu",
+      "department": "Computer Science",
+      "designation": "Professor",
+      "phone": "+1 555-0201",
+      "joining_date": "2018-08-15"
+    },
+    {
+      "id": "F1002",
+      "name": "Dr. Nikola Tesla",
+      "email": "tesla@campus.edu",
+      "department": "Electrical Engineering",
+      "designation": "Associate Professor",
+      "phone": "+1 555-0202",
+      "joining_date": "2020-01-10"
+    },
+    {
+      "id": "F1003",
+      "name": "Dr. Marie Curie",
+      "email": "curie@campus.edu",
+      "department": "Chemistry",
+      "designation": "Professor",
+      "phone": "+1 555-0203",
+      "joining_date": "2015-09-01"
+    },
+    {
+      "id": "F1004",
+      "name": "Prof. Ada Lovelace",
+      "email": "lovelace@campus.edu",
+      "department": "Computer Science",
+      "designation": "Assistant Professor",
+      "phone": "+1 555-0204",
+      "joining_date": "2022-03-01"
+    }
+  ]
+}

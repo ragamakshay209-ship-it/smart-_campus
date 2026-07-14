@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "EV001",
+      "title": "Annual Tech Symposium",
+      "description": "CS Department's largest technical event hosting coding combats and tech paper presentations.",
+      "date": "2026-09-15",
+      "time": "09:00",
+      "location": "Main Auditorium",
+      "category": "Academic"
+    },
+    {
+      "id": "EV002",
+      "title": "Intra-Campus Soccer Finals",
+      "description": "Final clash between Engineering and Business departments.",
+      "date": "2026-10-05",
+      "time": "16:00",
+      "location": "Campus Ground",
+      "category": "Sports"
+    },
+    {
+      "id": "EV003",
+      "title": "AI & Large Language Models Seminar",
+      "description": "Guest lecture by industry pioneer on agents and generative search systems.",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "location": "Seminar Hall 2",
+      "category": "Workshop"
+    }
+  ]
+}

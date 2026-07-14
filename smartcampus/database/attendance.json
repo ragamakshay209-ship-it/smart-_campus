@@ -1,0 +1,124 @@
+{
+  "attendance": [
+    {
+      "id": "ATT001",
+      "student_id": "S1001",
+      "student_name": "Alice Smith",
+      "date": "2026-07-10",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT002",
+      "student_id": "S1002",
+      "student_name": "Bob Jones",
+      "date": "2026-07-10",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT003",
+      "student_id": "S1003",
+      "student_name": "Charlie Brown",
+      "date": "2026-07-10",
+      "status": "Absent",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT004",
+      "student_id": "S1004",
+      "student_name": "Diana Prince",
+      "date": "2026-07-10",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT005",
+      "student_id": "S1005",
+      "student_name": "Evan Wright",
+      "date": "2026-07-10",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT006",
+      "student_id": "S1001",
+      "student_name": "Alice Smith",
+      "date": "2026-07-13",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT007",
+      "student_id": "S1002",
+      "student_name": "Bob Jones",
+      "date": "2026-07-13",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT008",
+      "student_id": "S1003",
+      "student_name": "Charlie Brown",
+      "date": "2026-07-13",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT009",
+      "student_id": "S1004",
+      "student_name": "Diana Prince",
+      "date": "2026-07-13",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT010",
+      "student_id": "S1005",
+      "student_name": "Evan Wright",
+      "date": "2026-07-13",
+      "status": "Absent",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT011",
+      "student_id": "S1001",
+      "student_name": "Alice Smith",
+      "date": "2026-07-14",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT012",
+      "student_id": "S1002",
+      "student_name": "Bob Jones",
+      "date": "2026-07-14",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT013",
+      "student_id": "S1003",
+      "student_name": "Charlie Brown",
+      "date": "2026-07-14",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT014",
+      "student_id": "S1004",
+      "student_name": "Diana Prince",
+      "date": "2026-07-14",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    },
+    {
+      "id": "ATT015",
+      "student_id": "S1005",
+      "student_name": "Evan Wright",
+      "date": "2026-07-14",
+      "status": "Present",
+      "marked_by": "turing@campus.edu"
+    }
+  ]
+}
